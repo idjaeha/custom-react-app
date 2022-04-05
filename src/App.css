@@ -1,0 +1,12 @@
+.greeting {
+  font-size: 5rem;
+  font-weight: bolder;
+  display: inline-block;
+  text-transform: uppercase;
+  text-align: center;
+  background: linear-gradient(70deg, rgb(0, 255, 247), rgb(200, 0, 255));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  margin: 1rem;
+}
